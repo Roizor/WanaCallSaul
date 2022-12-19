@@ -1,0 +1,11 @@
+C:\Users\aiden\Documents\Coding\WanaCallSaul\bin\Debug\WanaCallSaul.exe.config
+C:\Users\aiden\Documents\Coding\WanaCallSaul\bin\Debug\WanaCallSaul.exe
+C:\Users\aiden\Documents\Coding\WanaCallSaul\bin\Debug\WanaCallSaul.pdb
+C:\Users\aiden\Documents\Coding\WanaCallSaul\obj\Debug\WanaCallSaul.csproj.AssemblyReference.cache
+C:\Users\aiden\Documents\Coding\WanaCallSaul\obj\Debug\WanaCallSaul.csproj.SuggestedBindingRedirects.cache
+C:\Users\aiden\Documents\Coding\WanaCallSaul\obj\Debug\WanaCallSaul.Form1.resources
+C:\Users\aiden\Documents\Coding\WanaCallSaul\obj\Debug\WanaCallSaul.Properties.Resources.resources
+C:\Users\aiden\Documents\Coding\WanaCallSaul\obj\Debug\WanaCallSaul.csproj.GenerateResource.cache
+C:\Users\aiden\Documents\Coding\WanaCallSaul\obj\Debug\WanaCallSaul.csproj.CoreCompileInputs.cache
+C:\Users\aiden\Documents\Coding\WanaCallSaul\obj\Debug\WanaCallSaul.exe
+C:\Users\aiden\Documents\Coding\WanaCallSaul\obj\Debug\WanaCallSaul.pdb
